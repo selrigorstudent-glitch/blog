@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/blog/favicon.ico" />
         <meta
           name="description"
           content="Sean Eric L. Rigor's personal blog, built with Next.js."
@@ -25,7 +25,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/blog/images/profile.jpg"
               className={`${utilStyles.borderCircle} ${styles.headerHomeImage}`}
               height={144}
               width={144}
@@ -38,7 +38,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.jpg"
+                src="/blog/images/profile.jpg"
                 className={`${utilStyles.borderCircle} ${styles.headerImage}`}
                 height={108}
                 width={108}
