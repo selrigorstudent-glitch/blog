@@ -22,17 +22,17 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi! I&apos;m Sean, an Information Technology student who enjoys
-          exploring technology, DJing, riding motorcycles, and listening to
-          music. In my free time, I make song remixes, ride around the city,
-          and go hunting for new music &mdash; especially classic rock, emo,
-          and punk, with artists like MCR, Fall Out Boy, and Bryan Adams on
-          repeat. My favorite food is anything sweet, spicy, and savory all
-          at once &mdash; something I could never get tired of. In five
-          years, I see myself working successfully in the IT industry,
-          building my skills and experience, creating meaningful projects,
-          and pursuing a career that lets me keep growing while doing the
-          things I love.
+          Hi! I&apos;m Sean, an Information Technology student who likes
+          to explore the world of technology, go DJing, motorcycling, and
+          listening to music. In my free time, I enjoy creating remixes of
+          songs, going on adventures in the city, and hunting for new
+          music, especially old rock, emo, and punk songs, such as by
+          MCR, Fall Out Boy, Bryan Adams, and others. My all-time
+          favorite food is something sweet, spicy, and savory – a
+          combination that I will never get tired of. In five years,
+          I see myself working in the IT field, gaining experience and
+          knowledge, creating amazing things, and pursuing a career
+          that lets me keep growing while doing the things I love.
         </p>
         <p>
           (This is a sample website - you&apos;ll be building a site like
