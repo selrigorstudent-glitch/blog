@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
           songs, going on adventures in the city, and hunting for new
           music, especially old rock, emo, and punk songs, such as by
           MCR, Fall Out Boy, Bryan Adams, and others. My all-time
-          favorite food is something sweet, spicy, and savory – a
+          favorite food is something sweet, spicy, and savory, a
           combination that I will never get tired of. In five years,
           I see myself working in the IT field, gaining experience and
           knowledge, creating amazing things, and pursuing a career
